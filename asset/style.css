@@ -9,7 +9,7 @@ p, p .lead {
   }
 
 a {
-    style: none;
+    text-decoration: none;
     color: rgb(56, 56, 56);
 }
 
@@ -22,6 +22,7 @@ a {
 }
 
 /* Effect */
+
 .btn:hover {
     box-shadow: 3px 3px 8px rgba(34, 34, 34, 0.326);
 }
@@ -149,6 +150,8 @@ html {
     align-items: center;
     justify-content: center;
 }
+
+/*  Footer  */
 
 .emailContain {
     background-image: url(./image/hero_background_1.jpg);
