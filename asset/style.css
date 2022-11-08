@@ -9,6 +9,7 @@ p, p .lead {
   }
 a {
     style: none;
+    color: rgb(56, 56, 56);
 }
 
   /* Navigation bar */
@@ -16,6 +17,14 @@ a {
 .customNav {
     width: 100%;
     height: 65px;
+}
+
+.title {
+    margin: 40px auto !important;
+    text-align: center;
+    border-bottom: 1.8px solid;
+    padding-bottom: 20px;
+    width: 70%;
 }
 
 .navbar-brand {
@@ -81,12 +90,9 @@ a {
     margin: 2% !important;
 }
 
-#Work .title {
-    margin: 3% !important;
-    text-align: center;
-}
-
 .content {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+/*  Skill Section  */
