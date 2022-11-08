@@ -21,7 +21,16 @@ a {
     width: 70%;
 }
 
-  /* Navigation bar */
+/* Effect */
+.btn:hover {
+    box-shadow: 3px 3px 8px rgba(34, 34, 34, 0.326);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Navigation bar */
 
 .customNav {
     width: 100%;
@@ -140,3 +149,22 @@ a {
     align-items: center;
     justify-content: center;
 }
+
+.emailContain {
+    background-image: url(./image/hero_background_1.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+    height: 450px;
+}
+
+.form-group {
+    margin: 25px auto ;
+}
+
+form {
+    margin: 10%;
+}
+  
