@@ -109,3 +109,34 @@ a {
     text-align: center;
     width: 70%;
 }
+
+/*  About me and Contect Section  */
+
+#about_me p {
+    margin: 25px auto !important;
+    text-align: center;
+    width: 70%;
+}
+
+.bi {
+    font-size: 50px;
+}
+
+#about_me .btn{
+    margin-top: 10px;
+}
+
+#about_me .card-body {
+    text-align: center;
+    margin: auto;
+}
+
+#about_me .card {
+    margin: 20px;
+}
+
+#about_me .container {
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+}
